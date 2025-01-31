@@ -7,5 +7,10 @@ https://duheychoy.github.io/youtube/
 homepage
 
 https://duheychoy.github.io/learningwithdeepseekandgithub
+404 GitHub Pages
 
 https://github.com/duheychoy/learningwithdeepseekandgithub
+源代碼
+
+https://github.com/duheychoy/learningwithdeepseekandgithub/tree/main/Guides/ConfigGuide.md
+配置指南
