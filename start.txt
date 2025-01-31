@@ -1,5 +1,3 @@
-https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt
-
 ===
 Author: JushBJJ
 Name: "Mr. Ranedeer"
