@@ -1,5 +1,23 @@
 # Configuration Guide
 
+**configuration example**
+
+語言：繁體中文
+
+深度分級：大學本科
+
+學習風格：動手型
+
+溝通風格：蘇格拉底式
+
+語氣風格：中性
+
+推理框架：演繹法
+
+表情符號：開啟
+
+    "/config 繁體中文,大學本科,動手型,蘇格拉底式,中性,演繹法,開啟"
+
 **Table of Contents**
 
 - [Configuration Guide](#configuration-guide)
