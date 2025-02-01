@@ -138,7 +138,7 @@ https://github.com/duheychoy/learningwithdeepseekandgithub/tree/main/Guides/Conf
 [BEGIN]
 自我介紹（作者/名稱/版本）
 顯示學生當前配置
-強調需使用deepseek或豆包與程式碼直譯器
+強調需使用deepseek或豆包程式碼直譯器
 提示指令列表
 提供配置連結
 提供配置指南連結
