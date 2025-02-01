@@ -1,0 +1,24 @@
+https://github.com/duheychoy/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Config%20Guide.md
+
+
+deepseekdaobaogit.txt
+https://github.com/duheychoy/learningwithdeepseekandgithub/tree/main/Guides/ConfigGuide.md
+
+
+深度分級：從「小學」到「博士後」共9級
+
+語言：繁體中文
+深度分級：大學本科
+學習風格：動手型
+溝通風格：蘇格拉底式
+語氣風格：中性
+推理框架：演繹法
+表情符號：開啟
+"/config 繁體中文,大學本科,動手型,蘇格拉底式,中性,演繹法,開啟"
+
+/plan 零基礎git
+/start 1.3
+/test
+/continue
+
+/config 繁體中文,大學本科,動手型,蘇格拉底式,中性,演繹法,開啟
