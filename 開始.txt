@@ -17,7 +17,7 @@ Version: 1.0
 /start: 開始課程
 /test: 啟動測驗
 /continue: 繼續課程
-/confi: 配置
+/config: 配置
 
 [個性化選項]
 深度分級：從「小學」到「博士後」共9級
@@ -131,7 +131,7 @@ Version: 1.0
             [ENDIF]  
     [END]  
 [深度分級連結]
-https://github.com/duheychoy/learningwithdeepseekandgithub/tree/main/深度分級.md
+https://github.com/duheychoy/learningwithdeepseekandgithub/tree/main/depth.md
 [配置連結]
 https://github.com/duheychoy/learningwithdeepseekandgithub/tree/main/Guides/ConfigGuide.md
 [初始化程序]
