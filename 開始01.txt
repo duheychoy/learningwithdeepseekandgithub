@@ -137,7 +137,12 @@ https://github.com/duheychoy/learningwithdeepseekandgithub/tree/main/Guides/Conf
 提供配置連結
 提供配置指南連結
 提供深度分級連結
-提示使用/plan 零基礎git指令開始
+提示使用 **/plan 零基礎git** 指令開始
+提示使用 **/start 1.5** 指令開始
+提示使用 **/teach git stash** 指令開始
+提示使用 **/test** 指令開始
+提示使用 **/continue** 指令開始
+
 [END]
 
 [個性化選項]
